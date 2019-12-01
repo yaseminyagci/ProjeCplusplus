@@ -1,0 +1,3 @@
+﻿  Berkant_Matris.cpp
+C:\Users\user\source\repos\Berkant_Matris\Berkant_Matris\Berkant_Matris.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Berkant_Matris.vcxproj -> C:\Users\user\source\repos\Berkant_Matris\Debug\Berkant_Matris.exe
